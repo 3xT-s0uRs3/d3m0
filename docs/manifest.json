@@ -1,0 +1,50 @@
+{
+    "name": "W0rK K1T C0nTr0l P@\u21163L",
+	"short_name": "WK",
+	"description": "Work Kit control panel",
+	"version": "0.0.pwa.1",
+	"offline_enabled": "true",
+	"homepage_url":"/?t=home",
+    "icons": [
+        {
+            "src": "/img/android-chrome-36x36.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/android-chrome-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#c0c0c0",
+    "background_color": "#c0c0c0",
+    "start_url": "/?t=pwa",
+    "display": "standalone",
+    "orientation": "portrait"
+}
